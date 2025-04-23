@@ -1,0 +1,32 @@
+name: .NET Build and Check
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: windows-latest
+
+    steps:
+    - name: 🧾 Checkout repository
+      uses: actions/checkout@v3
+
+    - name: 🛠️ Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: 8.0.x  # Change this if you're using a different version
+
+    - name: 📦 Restore dependencies
+      run: dotnet restore
+
+    - name: 🔧 Build project
+      run: dotnet build --configuration Release
+
+    - name: ✅ Clean workspace
+      run: dotnet clean
+
+
