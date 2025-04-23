@@ -93,7 +93,7 @@ namespace CyberAwarenessBot
 
                         // Online site
                         //Title: Creating A Simple Bot Application Using Microsoft Bot Framework
-                        //Author: C# Corner
+                        //Author: C# Corne
                         //Date: 2024
                         //URL: https://www.c-sharpcorner.com/article/creating-a-simple-bot-application-using-microsoft-bot-framew/
                         //Accessed: 19 April 2025.
