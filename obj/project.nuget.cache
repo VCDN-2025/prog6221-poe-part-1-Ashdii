@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JUygEVuqqK0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lab_services_student\\source\\repos\\CyberAwarenessBot\\CyberAwarenessBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\system.windows.extensions\\10.0.0-preview.3.25171.5\\system.windows.extensions.10.0.0-preview.3.25171.5.nupkg.sha512"
+  ],
+  "logs": []
+}

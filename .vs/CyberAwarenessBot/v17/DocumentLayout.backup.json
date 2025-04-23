@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\CyberAwarenessBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66D79358-4AAF-445E-955E-D1794F79EB62}|CyberAwarenessBot.csproj|c:\\users\\lab_services_student\\source\\repos\\cyberawarenessbot\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D79358-4AAF-445E-955E-D1794F79EB62}|CyberAwarenessBot.csproj|solutionrelative:chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D79358-4AAF-445E-955E-D1794F79EB62}|CyberAwarenessBot.csproj|c:\\users\\lab_services_student\\source\\repos\\cyberawarenessbot\\voiceplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D79358-4AAF-445E-955E-D1794F79EB62}|CyberAwarenessBot.csproj|solutionrelative:voiceplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D79358-4AAF-445E-955E-D1794F79EB62}|CyberAwarenessBot.csproj|c:\\users\\lab_services_student\\source\\repos\\cyberawarenessbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D79358-4AAF-445E-955E-D1794F79EB62}|CyberAwarenessBot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D79358-4AAF-445E-955E-D1794F79EB62}|CyberAwarenessBot.csproj|c:\\users\\lab_services_student\\source\\repos\\cyberawarenessbot\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D79358-4AAF-445E-955E-D1794F79EB62}|CyberAwarenessBot.csproj|solutionrelative:consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chatbot.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CyberAwarenessBot\\Chatbot.cs",
+              "RelativeDocumentMoniker": "Chatbot.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CyberAwarenessBot\\Chatbot.cs",
+              "RelativeToolTip": "Chatbot.cs",
+              "ViewState": "AgIAAFgAAAAAzczMzMwXwGIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T10:32:55.204Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VoicePlayer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CyberAwarenessBot\\VoicePlayer.cs",
+              "RelativeDocumentMoniker": "VoicePlayer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CyberAwarenessBot\\VoicePlayer.cs",
+              "RelativeToolTip": "VoicePlayer.cs",
+              "ViewState": "AgIAAAcAAACAZmZmZmYXwBgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T10:27:31.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CyberAwarenessBot\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CyberAwarenessBot\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAADw/////38QwAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T10:25:44.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleUI.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CyberAwarenessBot\\ConsoleUI.cs",
+              "RelativeDocumentMoniker": "ConsoleUI.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CyberAwarenessBot\\ConsoleUI.cs",
+              "RelativeToolTip": "ConsoleUI.cs",
+              "ViewState": "AgIAAAwAAACAzMzMzIwtwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T10:30:04.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
